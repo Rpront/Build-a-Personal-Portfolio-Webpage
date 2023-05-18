@@ -84,6 +84,31 @@ nav ul{
     
 }
 
-#Formulario{
-    display:block;
+#projects h1{
+    color: black;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.project-tile{
+    text-align: center;
+    margin: 0 auto;
+}
+.project-tile a{
+    font-size: 20px;
+}
+#Formulario {
+    background-color: gray;
+}
+
+#Tribute{
+    background-color: gray;
+}
+
+#Documentacion{
+    background-color: gray;
+}
+
+#Product{
+    background-color: gray;
 }
