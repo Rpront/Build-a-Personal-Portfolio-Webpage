@@ -67,3 +67,23 @@ nav ul{
     text-align: center;
 
 }
+
+.project-tile img {
+    width:500px;
+}
+
+#Formulario-Tribute{
+    display:flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#Documentacion-Negocio{
+    display: flex;
+    margin-top: 100px;
+    
+}
+
+#Formulario{
+    display:block;
+}
