@@ -129,4 +129,12 @@ nav ul{
 
 .contact-links{
     padding-top: 100px;
+    display: flex;
+}
+
+.contact-links img{
+    width: 32px;
+}
+#Facebook{
+    display: flex;
 }
