@@ -130,6 +130,9 @@ nav ul{
 .contact-links{
     padding-top: 100px;
     display: flex;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
 }
 
 .contact-links img{
@@ -137,4 +140,9 @@ nav ul{
 }
 #Facebook{
     display: flex;
+}
+.contact-links a{
+    padding-left: 10px;
+    font-size: 20px;
+    color: white;
 }
