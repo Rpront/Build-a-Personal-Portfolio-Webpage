@@ -55,8 +55,8 @@ nav ul{
 
 #welcome-section{
     background-color: gray;
-    padding-bottom: 30vw;
-    padding-top: 30vw;
+    padding-bottom: 50vh;
+    padding-top: 50vh;
 }
 
 #welcome-section h1{
@@ -111,4 +111,22 @@ nav ul{
 
 #Product{
     background-color: gray;
+}
+
+#contact{
+    padding-bottom: 50vh;
+    padding-top: 50vh;
+    background-color: rosybrown;
+    text-align: center;
+}
+#contact h2{
+    font-size: 50px;
+}
+
+#contact p{
+    font-size: 20px;
+}
+
+.contact-links{
+    padding-top: 100px;
 }
